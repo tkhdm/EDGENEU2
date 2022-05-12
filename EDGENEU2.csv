@@ -1,0 +1,11 @@
+from,to,relationship
+lk,500,1
+lk,spd,2
+uv,500,1
+uv,cdu,2
+nr,500,1
+nr,cdu,2
+sw,linke,1
+sw,500,2
+cs,500,1
+cs,2
