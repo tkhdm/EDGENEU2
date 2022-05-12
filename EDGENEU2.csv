@@ -5,7 +5,7 @@ uv,500,1
 uv,cdu,2
 nr,500,1
 nr,cdu,2
-sw,linke,1
-sw,500,2
+sw,500,1
+sw,linke,2
 cs,500,1
 cs,2
